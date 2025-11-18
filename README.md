@@ -33,6 +33,8 @@ m → Finaliza a sequência.
 \033[0m → Reseta as cores para o padrão do terminal.
 
 Quando você executar esse código no terminal, verá a frase “Texto em verde brilhante com fundo preto” com as cores aplicadas.
+<img width="705" height="78" alt="image" src="https://github.com/user-attachments/assets/ae0a0a99-b0c9-4ba5-8567-0db00391554d" />
+
 
 A tabela abaixo apresenta os vários formatos;
 
