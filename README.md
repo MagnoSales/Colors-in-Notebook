@@ -7,8 +7,11 @@ O mesmo conteúdo por ser encontrado lá:
 Exemplo, com retorno em verde claro:
 
 \033[ Código de escape, este é sempre o mesmo
+
 1 = Estilo, 1 para normal
+
 32 = Cor do texto, 32 para verde brilhante
+
 40m = Cor de fundo, 40 para preto
 
 A tabela abaixo apresenta os vários formatos;
