@@ -14,6 +14,26 @@ Exemplo, com retorno em verde claro:
 
 40m = Cor de fundo, 40 para preto
 
+# Exemplo prático usando códigos ANSI
+
+print("\033[1;32;40mTexto em verde brilhante com fundo preto\033[0m")
+
+Explicação:
+
+\033[ → Código de escape.
+
+1 → Estilo (normal).
+
+32 → Cor do texto (verde brilhante).
+
+40 → Cor do fundo (preto).
+
+m → Finaliza a sequência.
+
+\033[0m → Reseta as cores para o padrão do terminal.
+
+Quando você executar esse código no terminal, verá a frase “Texto em verde brilhante com fundo preto” com as cores aplicadas.
+
 A tabela abaixo apresenta os vários formatos;
 
 <img width="811" height="627" alt="image" src="https://github.com/user-attachments/assets/96f0e551-b085-4f17-b5df-b035529c697e" />
