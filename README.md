@@ -6,10 +6,10 @@ O mesmo conteúdo por ser encontrado lá:
 
 Exemplo, com retorno em verde claro:
 
-\033[ Escape code, this is always the same
-1 = Style, 1 for normal.
-32 = Text colour, 32 for bright green.
-40m = Background colour, 40 is for black.
+\033[ Código de escape, este é sempre o mesmo
+1 = Estilo, 1 para normal
+32 = Cor do texto, 32 para verde brilhante
+40m = Cor de fundo, 40 para preto
 
 A tabela abaixo apresenta os vários formatos;
 
